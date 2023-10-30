@@ -5,6 +5,6 @@ The World Health Organization (WHO) identifies strokes as the second leading cau
 The objective is to display the charts / plots based on the given dataset about the stroke rate in different countries. The project aims at classifying the stroke based on the input parameters like smoking status, high blood pressure level, cholesterol level and obesity level. 
 
 ### Libraries used
-- [StreamLit](https://streamlit.io/)
-- [Pandas](https://pandas.pydata.org/)
-- [Plotly](https://plotly.com/)
+- [StreamLit](https://streamlit.io/) - to create web app
+- [Pandas](https://pandas.pydata.org/) - for data analysis
+- [Plotly](https://plotly.com/) - for data visualization
